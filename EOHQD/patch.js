@@ -6,5 +6,5 @@
   ],
     "id": "EOHQD",
     "title": "Embodiment of High Quality Devil",
-    "servers": ["https://raw.githubusercontent.com/Louchan3/thlouchan3/master/"]
+    "servers": ["https://raw.githubusercontent.com/Louchan3/thlouchan3/master/EOHQD"]
 }
