@@ -1,5 +1,5 @@
 {
-    "id": "Louchan3",
+    "id": "thlouchan3",
     "servers": ["https://raw.githubusercontent.com/Louchan3/thlouchan3/master/"],
     "title": "Louchan3's High Quality Music Mod",
     "contact": "https://www.youtube.com/@Louchan3",
